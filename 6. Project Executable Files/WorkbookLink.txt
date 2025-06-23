@@ -1,0 +1,5 @@
+Dashboard-1:https://public.tableau.com/views/EV_Analytics_Global_India/GlobalEuropeEVInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard-2: https://public.tableau.com/views/EV_Analytics_Global_India/IndiaEVMarketInfrastructure?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Story: https://public.tableau.com/shared/PFDNT2ZD8?:display_count=n&:origin=viz_share_link
+
+profile:https://public.tableau.com/app/profile/p.diveesh/vizzes
